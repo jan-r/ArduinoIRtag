@@ -1,0 +1,7 @@
+This is a special version version of the IRremote library for Arduino which focusses on sending and receiving data to and from infrared "laser tag" style toys.
+
+This is library based on the IRremote library from Ken Shirriff. You can download the original source code from github (http://github.com/shirriff/Arduino-IRremote).
+
+For details on the original library see the Wiki on github or the blog post http://arcfn.com/2009/08/multi-protocol-infrared-remote-library.html
+
+The library was inspired by http://www.meatandnetworking.com/projects/hacking-at-the-light-strike-laser-tag-game/ .
